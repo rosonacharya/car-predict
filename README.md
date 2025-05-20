@@ -44,7 +44,7 @@ Tasks:
 Tasks:
 - Best Model Selection: Choose the best-performing regresion model for  price prediction/
 - Final Model Training: Retrain the selected models on the full dataset if applicable. (This applies to the bits where you did not use the whole dataset at first)
-- Model Export: Save the final models for deployment or further analysis.(optional)
+- Model Export: Save the final models for deployment or further analysis.(optional-m )
   - Outcome: Finalized models ready for deployment, with clear interpretations of their predictions.
 
 
